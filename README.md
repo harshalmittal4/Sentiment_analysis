@@ -1,2 +1,2 @@
-# Tensorflow_practice
-practice lstm implementation in tensorflow using kaggle dataset
+# Sentiment Analysis Tweets Classification
+Lstm implementation in tensorflow on kaggle dataset.
